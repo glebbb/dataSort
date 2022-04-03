@@ -1,0 +1,43 @@
+html, body {
+
+    font-size: 18px;
+    text-align: center;
+    background-color: grey;
+}
+
+button{
+
+    padding: 8px;
+    font-size: 16px;
+
+}
+
+.mainTitle {
+
+    color:aquamarine;
+
+}
+
+.show-disabled{
+
+    position: relative;
+    top: 40px;
+    right: 260px;
+
+}
+
+.hide-disabled{
+
+    position: relative;
+    top: 40px;
+    left: 260px;
+
+}
+
+.console-clear{
+
+    position: relative;
+    top: 100px;
+    
+
+}
